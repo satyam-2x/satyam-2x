@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with [System Design and Scalable Backend Architecture](https://github.com/satyam-2x/CareerSync)
 
-- 👨‍💻 All of my projects are available at [https://github.com/satyam-2x](https://github.com/satyam-2x)
+- 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/satyam-2x)
 
 - 💬 Ask me about **MERN Stack Development, Backend Architecture, REST APIs, and Building Real-World Applications**
 
